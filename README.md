@@ -8,33 +8,33 @@
     
 # 動作環境
 
-  ubuntu 20.04 server
+  *ubuntu 20.04 server
   
-  Rasberry Pi 4
+  *Rasberry Pi 4
 
 # 使用したもの
   
-  Rasberry Pi 4
+  *Rasberry Pi 4
   
-  ブレッドボード
+  *ブレッドボード
   
-  LED × 3
+  *LED × 3
   
-  抵抗(220Ω) × 3
+  *抵抗(220Ω) × 3
   
-  ジャンパー線 × 6
+  *ジャンパー線 × 6
   
 # インストール方法
   コマンドを入力
-        git clone
+    git clone
     
-        cd robosys_led
+    cd robosys_led
     
-        make
+    make
     
-        sudo insmod myled.ko
+    sudo insmod myled.ko
     
-        sudo chmod 666 /dev/myled0
+    sudo chmod 666 /dev/myled0
 
 # 実行方法
 
