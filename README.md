@@ -54,6 +54,8 @@
   
     echo 4 > /dev/myled0
     
-
+# ライセンス
+  
+  COPYING(GNU General Public License v3.0)
 
   
