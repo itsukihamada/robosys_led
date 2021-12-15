@@ -26,15 +26,15 @@
   
 # インストール方法
   コマンドを入力
-    git clone
+        git clone
     
-    cd robosys_led
+        cd robosys_led
     
-    make
+        make
     
-    sudo insmod myled.ko
+        sudo insmod myled.ko
     
-    sudo chmod 666 /dev/myled0
+        sudo chmod 666 /dev/myled0
 
 # 実行方法
 
