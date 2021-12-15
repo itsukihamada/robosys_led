@@ -60,9 +60,9 @@
   
     echo 4 > /dev/myled0
 
-# 動画
+# 実際の動画
 
-  
+  https://youtu.be/vEeuR3NaynM
     
 # ライセンス
   
