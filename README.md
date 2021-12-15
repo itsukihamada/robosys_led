@@ -26,7 +26,7 @@
   
 # インストール方法
   コマンドを入力
-    git clone
+    git clone git@github.com:itsukihamada/robosys_led.git
     
     cd robosys_led
     
