@@ -24,6 +24,18 @@
   
   ジャンパー線 × 6
   
+# インストール方法
+  コマンドを入力
+    git clone
+    
+    cd robosys_led
+    
+    make
+    
+    sudo insmod myled.ko
+    
+    sudo chmod 666 /dev/myled0
+
 # 実行方法
 
   赤色LEDのみ点灯
