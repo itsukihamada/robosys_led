@@ -10,4 +10,36 @@
   
   Rasberry Pi 4
 
-# 実行コマンド
+# 使用したもの
+  
+  Rasberry Pi 4
+  
+  ブレッドボード
+  
+  LED × 3
+  
+  抵抗(220Ω) × 3
+  
+  ジャンパー線 × 6
+  
+# 実行方法
+
+  赤色LEDのみ点灯
+  
+    echo 1 > /dev/myled0
+   
+  緑色LEDのみ点灯
+   
+    echo 2 > /dev/myled0
+    
+  青色LEDのみ点灯
+  
+    echo 3 > /dev/myled0
+  
+  3つのLEDを順番に点灯
+  
+    echo 4 > /dev/myled0
+    
+
+
+  
