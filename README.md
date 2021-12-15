@@ -23,9 +23,15 @@
   *抵抗(220Ω) × 3
   
   *ジャンパー線 × 6
+
+# 回路
+  
+  下記のURLの動画のLEDは右からGPIO25,4,17に接続し、抵抗をGNDとLEDの間に一つずつつないでいる。
   
 # インストール方法
+
   コマンドを入力
+  
     git clone git@github.com:itsukihamada/robosys_led.git
     
     cd robosys_led
@@ -53,6 +59,10 @@
   3つのLEDを順番に点灯
   
     echo 4 > /dev/myled0
+
+# 動画
+
+  
     
 # ライセンス
   
