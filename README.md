@@ -12,7 +12,7 @@
   
   *Rasberry Pi 4
 
-# 使用したもの
+# 使用するもの
   
   *Rasberry Pi 4
   
