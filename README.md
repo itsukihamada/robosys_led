@@ -28,7 +28,7 @@
   
   下記のURLの動画のLEDは右からGPIO25,4,17に接続し、抵抗をGNDとLEDの間に一つずつつないでいる。
   
- ![image](https://user-images.githubusercontent.com/92429030/146484419-e6881f29-9453-40e8-8b2d-638362c2cabf.png)
+ 
 
 
   
