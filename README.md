@@ -32,7 +32,7 @@
   
  ![image](https://user-images.githubusercontent.com/92429030/146484648-7c52851a-d5bf-40b6-ae26-2682ea351e41.png)
 
- *Rasberry Pi4 のピン
+ *Rasberry Pi4 のピン配置
 
   ![image](https://user-images.githubusercontent.com/92429030/146485009-27a2af53-6c34-439c-a729-2fbcb1738b7a.png)
   
