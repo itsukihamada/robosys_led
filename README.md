@@ -53,6 +53,7 @@
 # 実行方法
   
   全てのLEDを消灯
+  
     echo 0 > /dev/myled0
   
   赤色LEDのみ点灯
